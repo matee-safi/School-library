@@ -23,7 +23,6 @@
 
 <a name="about-project"></a>
 
-# Morse-code
 
 This is a school library in ruby programming language
 
