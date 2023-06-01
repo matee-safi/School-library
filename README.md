@@ -82,7 +82,7 @@ To run the project execute the command below
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/matee-safi/School-library/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,6 +107,6 @@ If you like this project don't doubt on make any comments or try to reach me out
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](/LICENSE.md) licensed.
+This project is [MIT](/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
